@@ -2,3 +2,4 @@ I lova banana
 I lova banana
 I lova banana
 Test branches conflicts. EDit by b1902
+Test branches conflicts. edit by master
